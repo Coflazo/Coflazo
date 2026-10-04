@@ -1,6 +1,6 @@
 **Cagan Oflazoglu** · econometrics and machine learning · Amsterdam
 
-Now: Pre-Master's programme in Econometrics at the University of Amsterdam, and Commodities Analyst at Prometheus Capital, the university's student-run investment fund.
+Now: Pre-Master's programme in Econometrics at the University of Amsterdam, and a researcher on the Commodities Desk at Prometheus Capital, a student-run investment fund in Amsterdam.
 
 Recent work: a free trainer for the Optiver online assessment, a camera-roll cleaner whose photos never leave your own devices, and an open Turkish speech model in development.
 
